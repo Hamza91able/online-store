@@ -14,6 +14,7 @@
     "nodemon": "^1.18.3"
   },
   "dependencies": {
+    "@types/sequelize": "^4.28.1",
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
     "express": "^4.16.3",
